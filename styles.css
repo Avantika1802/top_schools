@@ -1,0 +1,52 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+    color: #343a40;
+}
+
+.school-info {
+    background: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.school-info h2 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.school-info p {
+    font-size: 1rem;
+    color: #6c757d;
+    margin-bottom: 10px;
+}
+
+.school-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.school-info ul li {
+    font-size: 1rem;
+    color: #6c757d;
+    margin-bottom: 5px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: #343a40;
+    border-radius: 50%;
+}
+
+.btn-group .btn {
+    margin: 0 5px;
+}
+.c1{
+    background-image:"ecole-globale-boarding-school-in-india.webp";
+}
